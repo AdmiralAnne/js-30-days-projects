@@ -1,0 +1,38 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #00b8d4;
+  }
+  
+  input[type="text"] {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #00b8d4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0095c6;
+  }
+  
+  #result {
+    color: #333;
+    font-size: 20px;
+    margin-top: 16px;
+  }
+  
